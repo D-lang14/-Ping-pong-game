@@ -1,3 +1,6 @@
+# Ping Pong Game with single paddle
+# By "Disha Patil"
+
 import turtle as t
 
 player = 0
